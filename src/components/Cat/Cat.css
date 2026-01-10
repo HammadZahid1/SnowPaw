@@ -1,0 +1,12 @@
+.cat-container {
+  position: absolute;
+  bottom: 3%;
+  left: 35%;
+  z-index: 2;
+}
+
+.cat-image {
+  width: 320px;
+  height: 230px;
+  filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.2));
+}
